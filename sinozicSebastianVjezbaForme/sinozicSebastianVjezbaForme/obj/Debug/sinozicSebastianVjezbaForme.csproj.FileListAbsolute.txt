@@ -1,0 +1,11 @@
+C:\Users\Habo\source\repos\sinozicSebastianVjezbaForme\sinozicSebastianVjezbaForme\obj\Debug\sinozicSebastianVjezbaForme.csprojAssemblyReference.cache
+C:\Users\Habo\source\repos\sinozicSebastianVjezbaForme\sinozicSebastianVjezbaForme\obj\Debug\sinozicSebastianVjezbaForme.Form1.resources
+C:\Users\Habo\source\repos\sinozicSebastianVjezbaForme\sinozicSebastianVjezbaForme\obj\Debug\sinozicSebastianVjezbaForme.FormUnosNovogStudenta.resources
+C:\Users\Habo\source\repos\sinozicSebastianVjezbaForme\sinozicSebastianVjezbaForme\obj\Debug\sinozicSebastianVjezbaForme.Properties.Resources.resources
+C:\Users\Habo\source\repos\sinozicSebastianVjezbaForme\sinozicSebastianVjezbaForme\obj\Debug\sinozicSebastianVjezbaForme.csproj.GenerateResource.cache
+C:\Users\Habo\source\repos\sinozicSebastianVjezbaForme\sinozicSebastianVjezbaForme\obj\Debug\sinozicSebastianVjezbaForme.csproj.CoreCompileInputs.cache
+C:\Users\Habo\source\repos\sinozicSebastianVjezbaForme\sinozicSebastianVjezbaForme\bin\Debug\sinozicSebastianVjezbaForme.exe.config
+C:\Users\Habo\source\repos\sinozicSebastianVjezbaForme\sinozicSebastianVjezbaForme\bin\Debug\sinozicSebastianVjezbaForme.exe
+C:\Users\Habo\source\repos\sinozicSebastianVjezbaForme\sinozicSebastianVjezbaForme\bin\Debug\sinozicSebastianVjezbaForme.pdb
+C:\Users\Habo\source\repos\sinozicSebastianVjezbaForme\sinozicSebastianVjezbaForme\obj\Debug\sinozicSebastianVjezbaForme.exe
+C:\Users\Habo\source\repos\sinozicSebastianVjezbaForme\sinozicSebastianVjezbaForme\obj\Debug\sinozicSebastianVjezbaForme.pdb
